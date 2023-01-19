@@ -4,7 +4,7 @@ BUILD = compile exe
 
 RUN = run
 
-FLAGS = -o transcript.exe
+FLAGS = -o dood.exe
 
 build: cli.dart
 	${CC} ${BUILD} ${FLAGS} cli.dart

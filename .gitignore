@@ -2,6 +2,7 @@
 .dart_tool/
 .packages
 *.exe
+*.txt
 
 # Conventional directory for build output.
 build/
